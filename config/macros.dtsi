@@ -1,3 +1,9 @@
+macro_alteffour: macro_alteffour{
+compatible = "zmk,behavior-macro";
+label = "macro_alteffour";
+#binding-cells = <0>;
+bindings = <&kp LA(F4)>;
+};
 macro_printscreencur: macro_printscreencur{
 compatible = "zmk,behavior-macro";
 label = "macro_printscreencur";
