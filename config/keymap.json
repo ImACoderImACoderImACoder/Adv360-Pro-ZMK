@@ -35,7 +35,7 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                            "&none",       "&none",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
-       "&kp ESC",     "&none",  "&none",  "&none",  "&none",  "&none",           "&trans", "&trans",                "&trans", "&trans", "&trans", "&trans", "&trans", "&macro_test",
+       "&kp ESC",     "&none",  "&none",  "&none",  "&none",  "&none",           "&trans", "&trans",                "&trans", "&trans", "&trans", "&trans", "&trans", "&macro_password",
         "&trans",    "&trans",  "&kp Q",  "&kp W",  "&kp E",  "&kp R",            "&kp T", "&trans",                "&trans", "&trans", "&trans", "&trans", "&trans",      "&trans",
        "&kp TAB", "&kp LCTRL",  "&kp A",  "&kp S",  "&kp D",  "&kp F",            "&kp G", "&trans", "&macro_printscreencur",                     "&trans", "&trans",      "&trans", "&trans", "&macro_alteffour", "&trans", "&trans", "&trans", "&trans",
         "&trans", "&kp LCTRL", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans",                 "&kp O", "&trans", "&trans", "&trans", "&trans",      "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",
