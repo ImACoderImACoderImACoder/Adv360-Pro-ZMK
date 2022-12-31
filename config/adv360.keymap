@@ -79,11 +79,11 @@
 
         layer_Gaming {
             bindings = <
- &kp ESC      &none   &none   &none   &none   &none            &trans  &trans                 &trans  &trans  &trans  &trans  &trans  &trans
-  &trans     &trans   &kp Q   &kp W   &kp E   &kp R             &kp T  &trans                 &trans  &trans  &trans  &trans  &trans  &trans
- &kp TAB  &kp LCTRL   &kp A   &kp S   &kp D   &kp F             &kp G  &trans  &macro_printscreencur                  &trans  &trans  &trans  &trans  &macro_alteffour  &trans  &trans  &trans  &trans
-  &trans  &kp LCTRL  &trans  &trans  &trans  &trans            &trans  &trans                  &kp O  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans
-  &trans     &trans  &trans  &trans  &trans  &trans            &trans   &kp P                 &trans  &trans  &trans  &trans  &trans  &trans  &trans            &trans
+ &kp ESC      &none   &none   &none   &none   &none            &trans  &trans                 &trans  &trans  &trans  &trans  &trans  &macro_test
+  &trans     &trans   &kp Q   &kp W   &kp E   &kp R             &kp T  &trans                 &trans  &trans  &trans  &trans  &trans       &trans
+ &kp TAB  &kp LCTRL   &kp A   &kp S   &kp D   &kp F             &kp G  &trans  &macro_printscreencur                  &trans  &trans       &trans  &trans  &macro_alteffour  &trans  &trans  &trans  &trans
+  &trans  &kp LCTRL  &trans  &trans  &trans  &trans            &trans  &trans                  &kp O  &trans  &trans  &trans  &trans       &trans  &trans            &trans  &trans  &trans  &trans  &trans
+  &trans     &trans  &trans  &trans  &trans  &trans            &trans   &kp P                 &trans  &trans  &trans  &trans  &trans       &trans  &trans            &trans
             >;
         };
 
